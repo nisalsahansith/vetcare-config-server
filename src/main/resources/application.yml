@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///E:/vetcare/config-repo
+          uri: https://github.com/nisalsahansith/config-repo.git
           default-label: main
 
 management:
